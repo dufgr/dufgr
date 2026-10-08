@@ -6,8 +6,6 @@ I build Salesforce solutions combining **Apex, LWC, Flow, integrations, and AI**
 
 São Paulo, Brazil
 
----
-
 ## Salesforce
 
 - Apex
@@ -36,8 +34,6 @@ São Paulo, Brazil
 - Workflow automation
 - AI-powered systems
 
----
-
 ## Featured Salesforce Projects
 
 > A portfolio focused on Salesforce development, integrations, automation, and AI.
@@ -62,15 +58,11 @@ AI-powered Salesforce solution for opportunity analysis, risk detection, follow-
 
 **Stack:** Salesforce · Apex · AI APIs · LWC
 
----
-
 ## Software Engineering Background
 
 Before specializing in Salesforce, I worked extensively with modern web applications, SaaS platforms, APIs, databases, automation, and AI-powered systems.
 
 This background allows me to approach Salesforce not only as a CRM platform, but as part of a broader software architecture.
-
----
 
 ## Contact
 
