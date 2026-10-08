@@ -1,10 +1,11 @@
 # Eduardo Figueiredo
 
-### Salesforce Developer | Software Engineer
+### Salesforce Developer | Product Engineer
 
-I build Salesforce solutions combining **Apex, LWC, Flow, integrations, and AI**, backed by a strong software engineering background.
+I build Salesforce solutions combining **Apex, LWC, automation, integrations, and AI**, backed by a strong product engineering background.
 
 São Paulo, Brazil
+
 
 ## Salesforce
 
@@ -33,6 +34,7 @@ São Paulo, Brazil
 - LLM applications
 - Workflow automation
 - AI-powered systems
+
 
 ## Featured Salesforce Projects
 
@@ -63,6 +65,16 @@ AI-powered Salesforce solution for opportunity analysis, risk detection, follow-
 Before specializing in Salesforce, I worked extensively with modern web applications, SaaS platforms, APIs, databases, automation, and AI-powered systems.
 
 This background allows me to approach Salesforce not only as a CRM platform, but as part of a broader software architecture.
+
+
+## Open to
+
+Remote international opportunities in:
+
+**Salesforce Development · Product Engineering · Full Stack Engineering · AI Engineering · Integrations**
+
+📍 Brazil · Portuguese citizen / EU work authorization
+
 
 ## Contact
 
