@@ -35,3 +35,29 @@ São Paulo, Brazil
 - LLM applications
 - Workflow automation
 - AI-powered systems
+
+---
+
+## Featured Salesforce Projects
+
+> A portfolio focused on Salesforce development, integrations, automation, and AI.
+
+### CRM & Sales Management
+Salesforce CRM solution focused on sales processes, data modeling, validation, automation, security, reports, and dashboards.
+
+**Stack:** Salesforce · Flow · Apex · SOQL
+
+### Sales Operations Dashboard
+Interactive Salesforce dashboard built with LWC, Apex, and SOQL to provide actionable sales insights.
+
+**Stack:** LWC · Apex · SOQL · Salesforce
+
+### Integration Hub
+Integration architecture connecting Salesforce with external services through REST APIs, authentication, webhooks, asynchronous processing, and error handling.
+
+**Stack:** Apex · REST APIs · Salesforce Integrations
+
+### AI Sales Assistant
+AI-powered Salesforce solution for opportunity analysis, risk detection, follow-up generation, and sales recommendations.
+
+**Stack:** Salesforce · Apex · AI APIs · LWC
