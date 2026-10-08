@@ -61,3 +61,18 @@ Integration architecture connecting Salesforce with external services through RE
 AI-powered Salesforce solution for opportunity analysis, risk detection, follow-up generation, and sales recommendations.
 
 **Stack:** Salesforce · Apex · AI APIs · LWC
+
+---
+
+## Software Engineering Background
+
+Before specializing in Salesforce, I worked extensively with modern web applications, SaaS platforms, APIs, databases, automation, and AI-powered systems.
+
+This background allows me to approach Salesforce not only as a CRM platform, but as part of a broader software architecture.
+
+---
+
+## Contact
+
+- LinkedIn: [LinkedIn](#)
+- Email: dufigueiredo@outlook.com
