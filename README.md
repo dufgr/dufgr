@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="mailto:dufigueiredo@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-Send%20me%20a%20message-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Send me a message" />
+  <img src="https://img.shields.io/badge/Outlook-Send%20me%20a%20message-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Send me a message">
 </a>
 
 </div>
@@ -17,8 +17,6 @@
 ### ☁️ Salesforce Developer | Product Engineer
 
 I build Salesforce solutions combining **Apex, LWC, automation, integrations, and AI**, backed by a strong product engineering background.
-
-São Paulo, Brazil
 
 ### 🛠 Core Stack
 
@@ -47,7 +45,7 @@ This background allows me to approach Salesforce not only as a CRM platform, but
 - Git / GitHub
 - Automated Testing
 
-## AI & Automation
+### AI & Automation
 
 - AI API integrations
 - LLM applications
