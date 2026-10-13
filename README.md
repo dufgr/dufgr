@@ -14,11 +14,9 @@
 
 </div>
 
-## ☁️ Salesforce Developer | Product Engineer
+### ☁️ Salesforce Developer | Product Engineer
 
 I build Salesforce solutions combining **Apex, LWC, automation, integrations, and AI**, backed by a strong product engineering background.
-
-### 🛠 Core Stack
 
 #### Salesforce
 
@@ -52,7 +50,8 @@ This background allows me to approach Salesforce not only as a CRM platform, but
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
-
+</p>
+<p>
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
