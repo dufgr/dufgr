@@ -14,6 +14,7 @@
 
 </div>
 
+
 ### ☁️ Salesforce Developer | Product Engineer
 
 I build Salesforce solutions combining **Apex, LWC, automation, integrations, and AI**, backed by a strong product engineering background.
@@ -42,7 +43,7 @@ Before specializing in Salesforce, I worked extensively with modern web applicat
 
 This background allows me to approach Salesforce not only as a CRM platform, but as part of a broader software architecture.
 
-<p>
+
 ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -50,14 +51,13 @@ This background allows me to approach Salesforce not only as a CRM platform, but
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
-</p>
-<p>
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-</p>
+
 
 ## 🎯 Open to
 
