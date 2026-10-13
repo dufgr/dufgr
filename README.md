@@ -1,4 +1,4 @@
-# Eduardo Figueiredo
+# 👋 Hi, I'm Eduardo Figueiredo, a Salesforce Developer and Product Engineer
 
  <div align="center">
 
@@ -13,7 +13,7 @@
 </a>
 
 </div>
-<br/>
+
 ### ☁️ Salesforce Developer
 
 I build Salesforce solutions combining **Apex, LWC, automation, integrations, and AI**, backed by a strong product engineering background.
@@ -41,7 +41,6 @@ I build Salesforce solutions combining **Apex, LWC, automation, integrations, an
 Before specializing in Salesforce, I worked extensively with modern web applications, SaaS platforms, APIs, databases, automation, and AI-powered systems.
 
 This background allows me to approach Salesforce not only as a CRM platform, but as part of a broader software architecture.
-<br/>
 
 ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
