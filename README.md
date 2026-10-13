@@ -14,7 +14,7 @@
 
 </div>
 
-### ☁️ Salesforce Developer | Product Engineer
+## ☁️ Salesforce Developer | Product Engineer
 
 I build Salesforce solutions combining **Apex, LWC, automation, integrations, and AI**, backed by a strong product engineering background.
 
@@ -38,12 +38,13 @@ I build Salesforce solutions combining **Apex, LWC, automation, integrations, an
 - Workflow automation
 - AI-powered systems
 
-#### Software Engineering Background
+### 💻 Software Engineering Background
 
 Before specializing in Salesforce, I worked extensively with modern web applications, SaaS platforms, APIs, databases, automation, and AI-powered systems.
 
 This background allows me to approach Salesforce not only as a CRM platform, but as part of a broader software architecture.
 
+<p>
 ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -57,6 +58,7 @@ This background allows me to approach Salesforce not only as a CRM platform, but
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+</p>
 
 ## 🎯 Open to
 
