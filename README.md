@@ -18,8 +18,6 @@
 
 I build Salesforce solutions combining **Apex, LWC, automation, integrations, and AI**, backed by a strong product engineering background.
 
-#### Salesforce
-
 - Apex
 - Lightning Web Components (LWC)
 - SOQL / SOSL
